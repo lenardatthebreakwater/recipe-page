@@ -8,6 +8,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 [Live Site](https://your-live-site-url.com)
 
+### Screenshot
+
 ## My process
 
 ### Built with
