@@ -4,11 +4,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Overview
 
+### Screenshot
+![Capture](https://github.com/lenardatthebreakwater/recipe-page/assets/142602437/7850ce17-8f11-417f-9e5a-80092693154a)
+
 ### Links
 
-[Live Site](https://your-live-site-url.com)
-
-### Screenshot
+[Live Site](https://lenardatthebreakwater.github.io/recipe-page/recipe_page.html)
 
 ## My process
 
