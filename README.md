@@ -19,4 +19,4 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - CSS3
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/lenardatthebreakwater)
+- Frontend Mentor - [@lenardatthebreakwater](https://www.frontendmentor.io/profile/lenardatthebreakwater)
